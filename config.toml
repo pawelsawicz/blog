@@ -4,3 +4,4 @@ title = "Pawel Sawicz on Software"
 publishDir = "docs"
 themesDir = "themes"
 theme = "kube"
+relativeURLs = true
