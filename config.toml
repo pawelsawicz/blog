@@ -4,4 +4,3 @@ title = "My New Hugo Sitae"
 publishDir = "docs"
 themesDir = "themes"
 theme = "kube"
-relativeURLs = true
