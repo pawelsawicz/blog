@@ -1,6 +1,6 @@
-baseURL = "https://pawelsawicz.github.io/blog"
+baseURL = "https://pawelsawicz.github.io/blog/"
 languageCode = "en-us"
 title = "My New Hugo Sitae"
 publishDir = "docs"
-themesDir = "docs/themes"
+themesDir = "themes"
 theme = "kube"
