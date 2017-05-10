@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pawel Sawicz on Software</title>
-    <link>https://pawelsawicz.github.io/</link>
-    <description>Recent content on Pawel Sawicz on Software</description>
+    <title>Docs on Pawel Sawicz on Software</title>
+    <link>https://pawelsawicz.github.io/docs/</link>
+    <description>Recent content in Docs on Pawel Sawicz on Software</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 May 2017 00:45:43 +0100</lastBuildDate>
     
-	<atom:link href="https://pawelsawicz.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pawelsawicz.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Thu, 11 May 2017 00:45:43 +0100</pubDate>
       
       <guid>https://pawelsawicz.github.io/docs/my-new-doc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>aaaaaa</title>
-      <link>https://pawelsawicz.github.io/blog/new-blog/</link>
-      <pubDate>Thu, 11 May 2017 00:41:53 +0100</pubDate>
-      
-      <guid>https://pawelsawicz.github.io/blog/new-blog/</guid>
       <description></description>
     </item>
     

@@ -1,6 +1,6 @@
 baseURL = "https://pawelsawicz.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Sitae"
+title = "Pawel Sawicz on Software"
 publishDir = "docs"
 themesDir = "themes"
 theme = "kube"
