@@ -2,18 +2,163 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://pawelsawicz.github.io/docs/my-new-doc/</loc>
-    <lastmod>2017-05-11T00:45:43+01:00</lastmod>
+    <loc>https://pawelsawicz.github.io/blog/dotnetconfpl2014/</loc>
+    <lastmod>2014-09-30T23:24:02+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pawelsawicz.github.io/blog/new-blog/</loc>
-    <lastmod>2017-05-11T00:41:53+01:00</lastmod>
+    <loc>https://pawelsawicz.github.io/blog/my-journey-to-being-nomad/</loc>
+    <lastmod>2014-06-29T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/unauthorizedaccessexception-while-accessing-camera/</loc>
+    <lastmod>2014-04-17T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/git-diff-pawelsawicz-cv/</loc>
+    <lastmod>2014-03-15T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/my-2013-and-goals-for-2014/</loc>
+    <lastmod>2014-01-11T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/401-unauthorized-while-reset-password-in-ghost/</loc>
+    <lastmod>2013-12-22T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/windows-phone-8-buildstuff/</loc>
+    <lastmod>2013-11-14T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/oredev-videos-are-live/</loc>
+    <lastmod>2013-11-11T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/dotnetconf-pl-2013/</loc>
+    <lastmod>2013-10-07T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/devday-windows-phone-application/</loc>
+    <lastmod>2013-09-17T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/grid-in-windows-phone-8/</loc>
+    <lastmod>2013-08-26T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/mongodb-and-web-api-power-of-nosql-philosophy/</loc>
+    <lastmod>2013-07-07T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/startup-weekend-wroclaw-final-presentation/</loc>
+    <lastmod>2013-05-26T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/interviewshow-to-be-not-rejected/</loc>
+    <lastmod>2013-05-19T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/deploy-from-external-repo/</loc>
+    <lastmod>2013-04-29T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/windows-azure-developer-challenge/</loc>
+    <lastmod>2013-04-29T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/async-and-restsharp/</loc>
+    <lastmod>2013-04-25T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/google-code-jam-2013/</loc>
+    <lastmod>2013-04-13T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/asciihack-wroclaw/</loc>
+    <lastmod>2013-03-18T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/codeguru-and-net-community/</loc>
+    <lastmod>2013-03-18T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/introduction-to-restsharp/</loc>
+    <lastmod>2013-03-18T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/office-365the-beginning/</loc>
+    <lastmod>2013-03-11T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/make-your-own-gtd/</loc>
+    <lastmod>2013-02-22T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/entity-frameworkreset-migrations/</loc>
+    <lastmod>2013-02-08T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/imagine-cup-2013backstage/</loc>
+    <lastmod>2013-01-29T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/entity-frameworkmissing-feature/</loc>
+    <lastmod>2013-01-24T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/iis-mod-rewritewordpress-fix/</loc>
+    <lastmod>2013-01-16T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/orm-series-entity-framework-migration/</loc>
+    <lastmod>2013-01-10T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/windows-live-writer/</loc>
+    <lastmod>2012-12-29T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/orm-series-performance-part-i/</loc>
+    <lastmod>2012-12-26T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/first-post-what-next/</loc>
+    <lastmod>2012-12-23T23:24:02+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://pawelsawicz.github.io/blog/</loc>
-    <lastmod>2017-05-11T00:41:53+01:00</lastmod>
+    <lastmod>2014-09-30T23:24:02+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -23,14 +168,8 @@
   </url>
   
   <url>
-    <loc>https://pawelsawicz.github.io/docs/</loc>
-    <lastmod>2017-05-11T00:45:43+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://pawelsawicz.github.io/</loc>
-    <lastmod>2017-05-11T00:45:43+01:00</lastmod>
+    <lastmod>2014-09-30T23:24:02+01:00</lastmod>
     <priority>0</priority>
   </url>
   

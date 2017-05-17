@@ -5,3 +5,23 @@ publishDir = "docs"
 themesDir = "themes"
 theme = "kube"
 relativeURLs = true
+
+[Params]
+  RSSLink = "/index.xml"
+  author = "Pawel Sawicz" # add your company name
+  github = "" # add your github profile name
+  twitter = "" # add your twitter profile
+  email = "pawel@sawicz.eu"
+
+[[menu.main]]
+    name = "Docs"
+    weight = -100
+    url = "/docs/"
+[[menu.main]]
+    name = "Blog"
+    weight = -100
+    url = "/blog/"
+[[menu.main]]
+    name = "Faq"
+    weight = -100
+    url = "/faq/"
