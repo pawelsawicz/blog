@@ -6,7 +6,9 @@ publishDir = "docs"
 themesDir = "themes"
 theme = "kube"
 relativeURLs = true
-paginate = 5 
+paginate = 5
+googleAnalytics = "UA-123-45"
+disqusShortname = "helbards"
 aliases = [
     "blog/oredev-videos-are-live/",
     "/oredev-videos-are-live/"
@@ -14,9 +16,9 @@ aliases = [
 
 [Params]
   RSSLink = "/index.xml"
-  author = "Pawel Sawicz" # add your company name
-  github = "" # add your github profile name
-  twitter = "" # add your twitter profile
+  author = "Pawel Sawicz"
+  github = "pawelsawicz"
+  twitter = "sawiczpawel"
   email = "pawel@sawicz.eu"
   popular = false
 
