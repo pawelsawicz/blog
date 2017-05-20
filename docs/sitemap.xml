@@ -7,6 +7,21 @@
   </url>
   
   <url>
+    <loc>https://pawelsawicz.github.io/blog/battlehack-2015-demo/</loc>
+    <lastmod>2014-09-30T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/stochastic-approximation-beginning/</loc>
+    <lastmod>2014-09-30T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/what-about-formal-education/</loc>
+    <lastmod>2014-09-30T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pawelsawicz.github.io/blog/my-journey-to-being-nomad/</loc>
     <lastmod>2014-06-29T23:24:02+01:00</lastmod>
   </url>
@@ -47,7 +62,62 @@
   </url>
   
   <url>
+    <loc>https://pawelsawicz.github.io/blog/a-history-of-ddos-attack/</loc>
+    <lastmod>2013-09-17T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pawelsawicz.github.io/blog/devday-windows-phone-application/</loc>
+    <lastmod>2013-09-17T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/dont-starve-together-and-vagrant/</loc>
+    <lastmod>2013-09-17T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/helbreath-poland-project/</loc>
+    <lastmod>2013-09-17T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/how-to-programming-in-golang-on-windows/</loc>
+    <lastmod>2013-09-17T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/makefile-and-net-core/</loc>
+    <lastmod>2013-09-17T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/refactoring-legacy-gui-application-to-cli/</loc>
+    <lastmod>2013-09-17T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/setting-up-net-core-project/</loc>
+    <lastmod>2013-09-17T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/squadron-first-steps/</loc>
+    <lastmod>2013-09-17T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/squadron-next-week-of-work/</loc>
+    <lastmod>2013-09-17T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/squadron-take-off-get-noticed/</loc>
+    <lastmod>2013-09-17T23:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/blog/terraform-in-game-development/</loc>
     <lastmod>2013-09-17T23:24:02+01:00</lastmod>
   </url>
   
