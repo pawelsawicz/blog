@@ -4,7 +4,7 @@ description = "New blogpost for today"
 draft = false
 title = "dotnetconf PL 2013 #dotnetconfpl"
 weight = 20
-
+popular = true
 +++
 
 dotnetconf logo

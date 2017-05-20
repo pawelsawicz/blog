@@ -1,10 +1,16 @@
 baseURL = "https://pawelsawicz.github.io/"
 languageCode = "en-us"
 title = "Pawel Sawicz on Software"
+description = "Pawel Sawicz on Software"
 publishDir = "docs"
 themesDir = "themes"
 theme = "kube"
 relativeURLs = true
+paginate = 5 
+aliases = [
+    "blog/oredev-videos-are-live/",
+    "/oredev-videos-are-live/"
+]
 
 [Params]
   RSSLink = "/index.xml"
@@ -12,6 +18,7 @@ relativeURLs = true
   github = "" # add your github profile name
   twitter = "" # add your twitter profile
   email = "pawel@sawicz.eu"
+  popular = false
 
 [[menu.main]]
     name = "Docs"
