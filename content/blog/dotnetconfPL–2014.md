@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "#dotnetconfPL - 2014"
 weight = 20
-
+aliases = [
+    "/dotnetconfpl/"
+]
 +++
 
 dotnetconf logo

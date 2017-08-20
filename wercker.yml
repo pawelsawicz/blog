@@ -5,3 +5,4 @@ build:
         version: "0.20"
         theme: kube
         flags: --buildDrafts=true
+deploy:

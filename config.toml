@@ -9,10 +9,6 @@ relativeURLs = true
 paginate = 5
 googleAnalytics = "UA-123-45"
 disqusShortname = "helbards"
-aliases = [
-    "blog/oredev-videos-are-live/",
-    "/oredev-videos-are-live/"
-]
 
 [Params]
   RSSLink = "/index.xml"
@@ -23,14 +19,6 @@ aliases = [
   popular = false
 
 [[menu.main]]
-    name = "Docs"
-    weight = -100
-    url = "/docs/"
-[[menu.main]]
     name = "Blog"
     weight = -100
     url = "/blog/"
-[[menu.main]]
-    name = "Faq"
-    weight = -100
-    url = "/faq/"
