@@ -227,6 +227,10 @@
   </url>
   
   <url>
+    <loc>https://pawelsawicz.github.io/aboutme/</loc>
+  </url>
+  
+  <url>
     <loc>https://pawelsawicz.github.io/blog/</loc>
     <lastmod>2014-09-30T23:24:02+01:00</lastmod>
     <priority>0</priority>
@@ -238,7 +242,11 @@
   </url>
   
   <url>
-    <loc>https://pawelsawicz.github.io/aboutme/</loc>
+    <loc>https://pawelsawicz.github.io/cv/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/masterclasses/</loc>
   </url>
   
   <url>

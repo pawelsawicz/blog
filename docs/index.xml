@@ -504,12 +504,34 @@ Secondly, I want to write something about, it is XNA and Windows Phone 7.</descr
     </item>
     
     <item>
-      <title>Company</title>
+      <title>About me</title>
       <link>https://pawelsawicz.github.io/aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pawelsawicz.github.io/aboutme/</guid>
-      <description>Who Pawel</description>
+      <description>Who Hi, my name is Pawel, I have been doing Software Development for 6 years. Started at small buissnes then have been doing some bits of consultancy and now I am London based Software Developer / Consultant
+Speaking, sharing knowledge I really like to share knowledge with others, and show new possible routes to acoplished a task. I am strongly involved in community
+Masterclasses If you company would like to adopt newest techniques, check out this set of Masterclasses</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://pawelsawicz.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/cv/</guid>
+      <description> My current CV, updated in May 2016  </description>
+    </item>
+    
+    <item>
+      <title>Masterclasses</title>
+      <link>https://pawelsawicz.github.io/masterclasses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/masterclasses/</guid>
+      <description>Intro Every of those masterclass can be bespoke for your organisation needs. Just email me!
+Introduction to .NET Core Lore ipsum lore ipsum lore ipsum lore ipsum lore ipsum lore ipsum lore ipsum lore ipsum lore ipsum lore ipsum lore ipsum lore ipsum lore ipsum lore ipsum lore ipsum lore ipsum lore ipsum lore ipsum lore ipsum lore ipsum lore ipsum lore ipsum lore ipsum lore ipsum
+Successful container delivering for .</description>
     </item>
     
   </channel>
