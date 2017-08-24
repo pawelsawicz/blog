@@ -16,15 +16,15 @@
   <div id="kube-features">
     <h2>Newest posts </h2>
     <div class="row gutters">
-      {{ $paginator := .Paginate (where .Data.Pages "Type" "blog")}}      
-      {{ range ($paginator.Pages.ByParam "popular").Reverse }}
+      {{ $paginator_first := .Paginate (where .Data.Pages "Type" "blog") }}      
+      {{ range (first 2 $paginator_first.Pages)}}
          {{ partial "page-summary-featured" . }}
       {{ end }}    
     </div>
     <h2>Popular posts</h2>
     <div class="row gutters">      
-      {{ $paginator := .Paginate (where .Data.Pages "Type" "blog")}}      
-      {{ range ($paginator.Pages.ByParam "popular").Reverse }}
+      {{ $paginator_second := .Paginate (where .Data.Pages "Type" "blog") }}      
+      {{ range (first 2 ($paginator_second.Pages.ByParam "popular")).Reverse }}
          {{ partial "page-summary-featured" . }}
       {{ end }}    
     </div>
