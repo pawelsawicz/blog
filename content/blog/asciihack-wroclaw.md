@@ -1,5 +1,5 @@
 +++
-date = "2013-03-18T23:24:02+01:00"
+date = "2013-03-24T23:24:02+01:00"
 description = "New blogpost for today"
 draft = false
 title = "#asciihack Wroclaw"

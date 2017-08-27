@@ -1,5 +1,5 @@
 +++
-date = "2013-09-17T23:24:02+01:00"
+date = "2016-06-13T23:24:02+01:00"
 description = "New blogpost for today"
 draft = false
 title = "Refactoring legacy GUI application to CLI"
