@@ -1,5 +1,5 @@
 +++
-date = "2013-09-17T23:24:02+01:00"
+date = "2017-03-15T23:24:02+01:00"
 description = "New blogpost for today"
 draft = false
 title = "Setting up .NET Core project"
