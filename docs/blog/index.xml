@@ -6,10 +6,173 @@
     <description>Recent content in Blogs on Pawel Sawicz on Software</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Sep 2014 23:24:02 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 30 Mar 2017 23:24:02 +0100</lastBuildDate>
     
 	<atom:link href="https://pawelsawicz.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Squadron - Next week of work</title>
+      <link>https://pawelsawicz.github.io/blog/squadron-next-week-of-work/</link>
+      <pubDate>Thu, 30 Mar 2017 23:24:02 +0100</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/blog/squadron-next-week-of-work/</guid>
+      <description>Operational_planning_for_the_2011_DRC_elections Plan for next week
+This post shares with you with insights from developing of getsquadron.io
+I managed to outline main feature that I want to have. Let&amp;rsquo;s kick off with something easy, those are main tasks to finish by the end of next week.
+Read simple Json configuration file that describe testing scenario Do a N requests against remote server, or you can specify frequency of requests Get time of all requests and dump into simple CSV file  My assumption for this week is that I should be able to perform very limited load test against one server.</description>
+    </item>
+    
+    <item>
+      <title>Squadron take off - Get Noticed</title>
+      <link>https://pawelsawicz.github.io/blog/squadron-take-off-get-noticed/</link>
+      <pubDate>Thu, 30 Mar 2017 23:24:02 +0100</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/blog/squadron-take-off-get-noticed/</guid>
+      <description>Get Noticed
+This is the time!
+Unfortunately last year I didn&amp;rsquo;t take part in Get Noticed! If you don&amp;rsquo;t know what it is, checks this website, translate to English should do work. In short, &amp;ldquo;Get Noticed&amp;rdquo; is a contest where for three months you have to work on your personal project, that you come up and you write about it on your blog, how amazing idea is that?
+The reason for that is simple Get Noticed!</description>
+    </item>
+    
+    <item>
+      <title>Makefile and .NET Core</title>
+      <link>https://pawelsawicz.github.io/blog/makefile-and-net-core/</link>
+      <pubDate>Wed, 29 Mar 2017 23:24:02 +0100</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/blog/makefile-and-net-core/</guid>
+      <description>building-blocks-456616_1280 Overview
+In this post you will learn what is build script or build tool, what products are out there and why it&amp;rsquo;s helpful during whole life cycle of you application.
+It it a part of &amp;ldquo;Get Noticed!&amp;rdquo; series, check out how to create your first .NET Core application. If you already know, check out this repository What is build script ?
+Build script tools automate certain task that you have to do repeatedly with your code, data store, application and other tools.</description>
+    </item>
+    
+    <item>
+      <title>Setting up .NET Core project</title>
+      <link>https://pawelsawicz.github.io/blog/setting-up-net-core-project/</link>
+      <pubDate>Wed, 15 Mar 2017 23:24:02 +0100</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/blog/setting-up-net-core-project/</guid>
+      <description>Overview
+This tutorial will work on most of OS, but I encourage you to get a Ubuntu, to go out of your comfort zone. It&amp;rsquo;s very easy to start with Linux. Working with console is very important to me, so that all work is done via command line.
+Article is part of &amp;ldquo;Get Noticed!&amp;rdquo;, project squadron, so we will try to recreate what I have already done to Squadron.TestApplication repository Install .</description>
+    </item>
+    
+    <item>
+      <title>Squadron - First stepss</title>
+      <link>https://pawelsawicz.github.io/blog/squadron-first-steps/</link>
+      <pubDate>Tue, 07 Mar 2017 23:24:02 +0100</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/blog/squadron-first-steps/</guid>
+      <description>Yesterday&amp;rsquo;s tasks
+Those were my yesterday&amp;rsquo;s tasks, check out the outcome.
+trello-kick-off Measure people interest and start gathering information about customers
+As you might have read in the previous blog post, I want to be very focused on building the product from the beginning. It means one thing, marketing and proper product building. I will try to use my &amp;ldquo;engineering&amp;rdquo; point of view to a minimum.
+That means I have to deliver product features quickly and check if my potential customers like it, but how can I check if people like the product or a feature?</description>
+    </item>
+    
+    <item>
+      <title>How to programming in GoLang on Windows</title>
+      <link>https://pawelsawicz.github.io/blog/how-to-programming-in-golang-on-windows/</link>
+      <pubDate>Mon, 01 Aug 2016 23:24:02 +0100</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/blog/how-to-programming-in-golang-on-windows/</guid>
+      <description>Recently I started programming in GoLang, for one project that I want to contribute to, terraform. For me, it was natural to get working GoLang on Windows.
+So I downloaded GoLang, and terraform then I tried to compile and it happened&amp;hellip;
+Basically, my execution path got too, which is known issue on Windows.
+That&amp;rsquo;s why it&amp;rsquo;s impossible to having working bigger projects in GoLang on Windows because you can&amp;rsquo;t even compile it.</description>
+    </item>
+    
+    <item>
+      <title>A history of DDoS attack - How my server died</title>
+      <link>https://pawelsawicz.github.io/blog/a-history-of-ddos-attack/</link>
+      <pubDate>Tue, 21 Jun 2016 23:24:02 +0100</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/blog/a-history-of-ddos-attack/</guid>
+      <description>This blog post is postmortem of my infrastructure that was attacked on Sunday by Argentinian attacker and died because of DDoS. I will share with you all actions that I took in order to bring back stability of services. Summary
+Attack has started : 19 June 2016 at 3:20PM UTC
+Attack has ended : 19 June 2016 at 4:10PM UTC
+Users affected : 30-40 users
+Extra cost due to attack : less than 2$ Existing Infrastructure</description>
+    </item>
+    
+    <item>
+      <title>Refactoring legacy GUI application to CLI</title>
+      <link>https://pawelsawicz.github.io/blog/refactoring-legacy-gui-application-to-cli/</link>
+      <pubDate>Mon, 13 Jun 2016 23:24:02 +0100</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/blog/refactoring-legacy-gui-application-to-cli/</guid>
+      <description>If you ever wonder how it is to work with 15-year-old legacy C++ code, and how to make refactoring, this blog is perfect for you :)
+As ou may remember, I promised you to show you work that I do for Helbreath. When I decided to work on that, the first decision I made was to try to get rid of this horrible GUI, that was aperitif before I do more serious work.</description>
+    </item>
+    
+    <item>
+      <title>Helbreath Poland project</title>
+      <link>https://pawelsawicz.github.io/blog/helbreath-poland-project/</link>
+      <pubDate>Mon, 06 Jun 2016 23:24:02 +0100</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/blog/helbreath-poland-project/</guid>
+      <description>hb_blogpost What is Helbreath ?
+Helbreath is MMO games created back in 1999 by a korean studio - Siementech, seems that they are dead :(
+At the same time there was a group of people who created open source code for this game, both server and client side.
+This is very important, to understand that those sources were developed in 1999 / 2000 so some approaches were really good at that time.</description>
+    </item>
+    
+    <item>
+      <title>Terraform in game development - Don’t Starve Together</title>
+      <link>https://pawelsawicz.github.io/blog/terraform-in-game-development/</link>
+      <pubDate>Fri, 13 Nov 2015 23:24:02 +0100</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/blog/terraform-in-game-development/</guid>
+      <description>dont_starve_together_blogpost
+A while ago you could read about Vagrant for Don&amp;rsquo;t Starve Together (aka DST), this time let&amp;rsquo;s discuss about similar tool named Terraform.
+As in vagrant blogpost I am playing Terraform with DST, because it&amp;rsquo;s quite good aspect and problem were you can check out tools like Terraform.
+You may wondering what do you have with those all games ? Games for me were THIS thing that I started programming, it all has begun from Helbreath, were as a 13 years old I wanted to create my own server so I had to compile C++ source code, it was challenging for somebody with zero knowledge of C++, so that&amp;rsquo;s why I still love doing private server and giving back to gamers community.</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t Starve Together and Vagrant</title>
+      <link>https://pawelsawicz.github.io/blog/dont-starve-together-and-vagrant/</link>
+      <pubDate>Fri, 03 Jul 2015 23:24:02 +0100</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/blog/dont-starve-together-and-vagrant/</guid>
+      <description>219740_screenshots_2013-03-13_00004
+I had few approaches into Vagrant but every time I was recreating what somebody have done already which was quite frustrating because I couldn&amp;rsquo;t share what I have done and achieved. This time I came across with one problem that can be solved by using Vagrant and it&amp;rsquo;s a field where it wasn&amp;rsquo;t used before so it was also good time for me to do everything by my own.</description>
+    </item>
+    
+    <item>
+      <title>Battlehack 2015 Demo</title>
+      <link>https://pawelsawicz.github.io/blog/battlehack-2015-demo/</link>
+      <pubDate>Wed, 15 Apr 2015 23:24:02 +0100</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/blog/battlehack-2015-demo/</guid>
+      <description>JustGiving API Demo
+Make a donation with reference code Retrieve donations for given reference code Retrieve donation for given ID  Those three calls are complete flow to make a donation and then get aggregated donations for specific reference, and then get details for specific donation. Additionally when you succeed make a donation you will get in response donationId as a URL parameter.
+Check out our chat at JabbR, where you can ask question and discuss about API.</description>
+    </item>
+    
+    <item>
+      <title>What about formal education?</title>
+      <link>https://pawelsawicz.github.io/blog/what-about-formal-education/</link>
+      <pubDate>Fri, 06 Mar 2015 23:24:02 +0100</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/blog/what-about-formal-education/</guid>
+      <description>Recently I got BSc degree at Wroclaw University of Technology (aka PWr) in field of Electronic and Telecommunication, today in my blogpost I would like to talk about formal education, how I precept it, and what it gives us. We will try to answer to following question, is formal education required to be a programmer?
+Legacy
+Before I went to Uni. I had some experience in field of programming, mostly basic knowledge about c++, c#, php, even my first real job was programming, during summer break at high school.</description>
+    </item>
+    
+    <item>
+      <title>Stochastic Approximation - Beginning</title>
+      <link>https://pawelsawicz.github.io/blog/stochastic-approximation-beginning/</link>
+      <pubDate>Thu, 30 Oct 2014 23:24:02 +0100</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/blog/stochastic-approximation-beginning/</guid>
+      <description>example-of-function
+Hi everyone, this time I would like to present you something more ambitious than previous blog posts.
+Since it is my last semester at Wroclaw University of Technology, the time of BSc project has come. I will write down a mini-series about my preparation, sometimes it can be more technical or just theory. This write is a introduction what is about my project. Ideas
+In the middle of may 2014 I have realized that it&amp;rsquo;s time to choose a subject for my final project, I had plenty of ideas my like : own interpreter, nosql database, some new tools, implement continuous delivery but I wanted also to do something not ordinary so after few talks with my supervisor we have agreed to parallel implementation of some optimization algorithm, then we chose Global Stochastic Optimization algorithm described by Sid Yakowitz.</description>
+    </item>
     
     <item>
       <title>#dotnetconfPL - 2014</title>
@@ -21,40 +184,6 @@
 Hey!
 Hey all I would like to invite you to second edition of dotnetconfPL. If you hear about it first time then check out last edition. As you may guess this conference is in Polish, we were inspired by global edition, so we decided to do it in Polish.
 At this year we have few more licences to raffle during our event, six resharper and three ncrunch. Thank for all sponsors!</description>
-    </item>
-    
-    <item>
-      <title>Battlehack 2015 Demo</title>
-      <link>https://pawelsawicz.github.io/blog/battlehack-2015-demo/</link>
-      <pubDate>Tue, 30 Sep 2014 23:24:02 +0100</pubDate>
-      
-      <guid>https://pawelsawicz.github.io/blog/battlehack-2015-demo/</guid>
-      <description>JustGiving API Demo
-Make a donation with reference code Retrieve donations for given reference code Retrieve donation for given ID  Those three calls are complete flow to make a donation and then get aggregated donations for specific reference, and then get details for specific donation. Additionally when you succeed make a donation you will get in response donationId as a URL parameter.
-Check out our chat at JabbR, where you can ask question and discuss about API.</description>
-    </item>
-    
-    <item>
-      <title>Stochastic Approximation - Beginning</title>
-      <link>https://pawelsawicz.github.io/blog/stochastic-approximation-beginning/</link>
-      <pubDate>Tue, 30 Sep 2014 23:24:02 +0100</pubDate>
-      
-      <guid>https://pawelsawicz.github.io/blog/stochastic-approximation-beginning/</guid>
-      <description>example-of-function
-Hi everyone, this time I would like to present you something more ambitious than previous blog posts.
-Since it is my last semester at Wroclaw University of Technology, the time of BSc project has come. I will write down a mini-series about my preparation, sometimes it can be more technical or just theory. This write is a introduction what is about my project. Ideas
-In the middle of may 2014 I have realized that it&amp;rsquo;s time to choose a subject for my final project, I had plenty of ideas my like : own interpreter, nosql database, some new tools, implement continuous delivery but I wanted also to do something not ordinary so after few talks with my supervisor we have agreed to parallel implementation of some optimization algorithm, then we chose Global Stochastic Optimization algorithm described by Sid Yakowitz.</description>
-    </item>
-    
-    <item>
-      <title>What about formal education?</title>
-      <link>https://pawelsawicz.github.io/blog/what-about-formal-education/</link>
-      <pubDate>Tue, 30 Sep 2014 23:24:02 +0100</pubDate>
-      
-      <guid>https://pawelsawicz.github.io/blog/what-about-formal-education/</guid>
-      <description>Recently I got BSc degree at Wroclaw University of Technology (aka PWr) in field of Electronic and Telecommunication, today in my blogpost I would like to talk about formal education, how I precept it, and what it gives us. We will try to answer to following question, is formal education required to be a programmer?
-Legacy
-Before I went to Uni. I had some experience in field of programming, mostly basic knowledge about c++, c#, php, even my first real job was programming, during summer break at high school.</description>
     </item>
     
     <item>
@@ -145,19 +274,6 @@ Good luck guys and see you on Saturday! :)</description>
     </item>
     
     <item>
-      <title>A history of DDoS attack - How my server died</title>
-      <link>https://pawelsawicz.github.io/blog/a-history-of-ddos-attack/</link>
-      <pubDate>Tue, 17 Sep 2013 23:24:02 +0100</pubDate>
-      
-      <guid>https://pawelsawicz.github.io/blog/a-history-of-ddos-attack/</guid>
-      <description>This blog post is postmortem of my infrastructure that was attacked on Sunday by Argentinian attacker and died because of DDoS. I will share with you all actions that I took in order to bring back stability of services. Summary
-Attack has started : 19 June 2016 at 3:20PM UTC
-Attack has ended : 19 June 2016 at 4:10PM UTC
-Users affected : 30-40 users
-Extra cost due to attack : less than 2$ Existing Infrastructure</description>
-    </item>
-    
-    <item>
       <title>DevDay Windows Phone Application #abbdevday</title>
       <link>https://pawelsawicz.github.io/blog/devday-windows-phone-application/</link>
       <pubDate>Tue, 17 Sep 2013 23:24:02 +0100</pubDate>
@@ -166,122 +282,6 @@ Extra cost due to attack : less than 2$ Existing Infrastructure</description>
       <description>Finally! Today my application for Dev Day 2013 gone through windows store. You can download this application here Application,or in phone by searching (devday, abb, conference)
 Few example of screen-shots
 4 3 2 1</description>
-    </item>
-    
-    <item>
-      <title>Don&#39;t Starve Together and Vagrant</title>
-      <link>https://pawelsawicz.github.io/blog/dont-starve-together-and-vagrant/</link>
-      <pubDate>Tue, 17 Sep 2013 23:24:02 +0100</pubDate>
-      
-      <guid>https://pawelsawicz.github.io/blog/dont-starve-together-and-vagrant/</guid>
-      <description>219740_screenshots_2013-03-13_00004
-I had few approaches into Vagrant but every time I was recreating what somebody have done already which was quite frustrating because I couldn&amp;rsquo;t share what I have done and achieved. This time I came across with one problem that can be solved by using Vagrant and it&amp;rsquo;s a field where it wasn&amp;rsquo;t used before so it was also good time for me to do everything by my own.</description>
-    </item>
-    
-    <item>
-      <title>Helbreath Poland project</title>
-      <link>https://pawelsawicz.github.io/blog/helbreath-poland-project/</link>
-      <pubDate>Tue, 17 Sep 2013 23:24:02 +0100</pubDate>
-      
-      <guid>https://pawelsawicz.github.io/blog/helbreath-poland-project/</guid>
-      <description>hb_blogpost What is Helbreath ?
-Helbreath is MMO games created back in 1999 by a korean studio - Siementech, seems that they are dead :(
-At the same time there was a group of people who created open source code for this game, both server and client side.
-This is very important, to understand that those sources were developed in 1999 / 2000 so some approaches were really good at that time.</description>
-    </item>
-    
-    <item>
-      <title>How to programming in GoLang on Windows</title>
-      <link>https://pawelsawicz.github.io/blog/how-to-programming-in-golang-on-windows/</link>
-      <pubDate>Tue, 17 Sep 2013 23:24:02 +0100</pubDate>
-      
-      <guid>https://pawelsawicz.github.io/blog/how-to-programming-in-golang-on-windows/</guid>
-      <description>Recently I started programming in GoLang, for one project that I want to contribute to, terraform. For me, it was natural to get working GoLang on Windows.
-So I downloaded GoLang, and terraform then I tried to compile and it happened&amp;hellip;
-Basically, my execution path got too, which is known issue on Windows.
-That&amp;rsquo;s why it&amp;rsquo;s impossible to having working bigger projects in GoLang on Windows because you can&amp;rsquo;t even compile it.</description>
-    </item>
-    
-    <item>
-      <title>Makefile and .NET Core</title>
-      <link>https://pawelsawicz.github.io/blog/makefile-and-net-core/</link>
-      <pubDate>Tue, 17 Sep 2013 23:24:02 +0100</pubDate>
-      
-      <guid>https://pawelsawicz.github.io/blog/makefile-and-net-core/</guid>
-      <description>building-blocks-456616_1280 Overview
-In this post you will learn what is build script or build tool, what products are out there and why it&amp;rsquo;s helpful during whole life cycle of you application.
-It it a part of &amp;ldquo;Get Noticed!&amp;rdquo; series, check out how to create your first .NET Core application. If you already know, check out this repository What is build script ?
-Build script tools automate certain task that you have to do repeatedly with your code, data store, application and other tools.</description>
-    </item>
-    
-    <item>
-      <title>Refactoring legacy GUI application to CLI</title>
-      <link>https://pawelsawicz.github.io/blog/refactoring-legacy-gui-application-to-cli/</link>
-      <pubDate>Tue, 17 Sep 2013 23:24:02 +0100</pubDate>
-      
-      <guid>https://pawelsawicz.github.io/blog/refactoring-legacy-gui-application-to-cli/</guid>
-      <description>If you ever wonder how it is to work with 15-year-old legacy C++ code, and how to make refactoring, this blog is perfect for you :)
-As ou may remember, I promised you to show you work that I do for Helbreath. When I decided to work on that, the first decision I made was to try to get rid of this horrible GUI, that was aperitif before I do more serious work.</description>
-    </item>
-    
-    <item>
-      <title>Setting up .NET Core project</title>
-      <link>https://pawelsawicz.github.io/blog/setting-up-net-core-project/</link>
-      <pubDate>Tue, 17 Sep 2013 23:24:02 +0100</pubDate>
-      
-      <guid>https://pawelsawicz.github.io/blog/setting-up-net-core-project/</guid>
-      <description>Overview
-This tutorial will work on most of OS, but I encourage you to get a Ubuntu, to go out of your comfort zone. It&amp;rsquo;s very easy to start with Linux. Working with console is very important to me, so that all work is done via command line.
-Article is part of &amp;ldquo;Get Noticed!&amp;rdquo;, project squadron, so we will try to recreate what I have already done to Squadron.TestApplication repository Install .</description>
-    </item>
-    
-    <item>
-      <title>Squadron - First stepss</title>
-      <link>https://pawelsawicz.github.io/blog/squadron-first-steps/</link>
-      <pubDate>Tue, 17 Sep 2013 23:24:02 +0100</pubDate>
-      
-      <guid>https://pawelsawicz.github.io/blog/squadron-first-steps/</guid>
-      <description>Yesterday&amp;rsquo;s tasks
-Those were my yesterday&amp;rsquo;s tasks, check out the outcome.
-trello-kick-off Measure people interest and start gathering information about customers
-As you might have read in the previous blog post, I want to be very focused on building the product from the beginning. It means one thing, marketing and proper product building. I will try to use my &amp;ldquo;engineering&amp;rdquo; point of view to a minimum.
-That means I have to deliver product features quickly and check if my potential customers like it, but how can I check if people like the product or a feature?</description>
-    </item>
-    
-    <item>
-      <title>Squadron - Next week of work</title>
-      <link>https://pawelsawicz.github.io/blog/squadron-next-week-of-work/</link>
-      <pubDate>Tue, 17 Sep 2013 23:24:02 +0100</pubDate>
-      
-      <guid>https://pawelsawicz.github.io/blog/squadron-next-week-of-work/</guid>
-      <description>Operational_planning_for_the_2011_DRC_elections Plan for next week
-This post shares with you with insights from developing of getsquadron.io
-I managed to outline main feature that I want to have. Let&amp;rsquo;s kick off with something easy, those are main tasks to finish by the end of next week.
-Read simple Json configuration file that describe testing scenario Do a N requests against remote server, or you can specify frequency of requests Get time of all requests and dump into simple CSV file  My assumption for this week is that I should be able to perform very limited load test against one server.</description>
-    </item>
-    
-    <item>
-      <title>Squadron take off - Get Noticed</title>
-      <link>https://pawelsawicz.github.io/blog/squadron-take-off-get-noticed/</link>
-      <pubDate>Tue, 17 Sep 2013 23:24:02 +0100</pubDate>
-      
-      <guid>https://pawelsawicz.github.io/blog/squadron-take-off-get-noticed/</guid>
-      <description>Get Noticed
-This is the time!
-Unfortunately last year I didn&amp;rsquo;t take part in Get Noticed! If you don&amp;rsquo;t know what it is, checks this website, translate to English should do work. In short, &amp;ldquo;Get Noticed&amp;rdquo; is a contest where for three months you have to work on your personal project, that you come up and you write about it on your blog, how amazing idea is that?
-The reason for that is simple Get Noticed!</description>
-    </item>
-    
-    <item>
-      <title>Terraform in game development - Don’t Starve Together</title>
-      <link>https://pawelsawicz.github.io/blog/terraform-in-game-development/</link>
-      <pubDate>Tue, 17 Sep 2013 23:24:02 +0100</pubDate>
-      
-      <guid>https://pawelsawicz.github.io/blog/terraform-in-game-development/</guid>
-      <description>dont_starve_together_blogpost
-A while ago you could read about Vagrant for Don&amp;rsquo;t Starve Together (aka DST), this time let&amp;rsquo;s discuss about similar tool named Terraform.
-As in vagrant blogpost I am playing Terraform with DST, because it&amp;rsquo;s quite good aspect and problem were you can check out tools like Terraform.
-You may wondering what do you have with those all games ? Games for me were THIS thing that I started programming, it all has begun from Helbreath, were as a 13 years old I wanted to create my own server so I had to compile C++ source code, it was challenging for somebody with zero knowledge of C++, so that&amp;rsquo;s why I still love doing private server and giving back to gamers community.</description>
     </item>
     
     <item>
@@ -328,7 +328,7 @@ My first interview was quite good and it was leaded by owner.</description>
     <item>
       <title>Deploy from external repo</title>
       <link>https://pawelsawicz.github.io/blog/deploy-from-external-repo/</link>
-      <pubDate>Mon, 29 Apr 2013 23:24:02 +0100</pubDate>
+      <pubDate>Thu, 02 May 2013 23:24:02 +0100</pubDate>
       
       <guid>https://pawelsawicz.github.io/blog/deploy-from-external-repo/</guid>
       <description>tl;tr; Deploy from external repo on MS Azure
@@ -369,23 +369,23 @@ P.S There is plenty of supported languages! Including C#</description>
     </item>
     
     <item>
-      <title>#asciihack Wroclaw</title>
-      <link>https://pawelsawicz.github.io/blog/asciihack-wroclaw/</link>
-      <pubDate>Mon, 18 Mar 2013 23:24:02 +0100</pubDate>
-      
-      <guid>https://pawelsawicz.github.io/blog/asciihack-wroclaw/</guid>
-      <description>This event will stay in my mind for a long time, I met there fantastic people, projects but what was the important it was a lot of FUN!.
-unfortunately I was late for event like 15 minutes, but when I came at the front of me @nedzynski ask me what I want to eat and give me card to write my name and stick it into my shirt. It&amp;rsquo;s nice idea when you are talking with somebody you just see his/her name, I have weak remember to names so for me it was great and I don&amp;rsquo;t have to worry about this.</description>
-    </item>
-    
-    <item>
       <title>Codeguru and .NET community</title>
       <link>https://pawelsawicz.github.io/blog/codeguru-and-net-community/</link>
-      <pubDate>Mon, 18 Mar 2013 23:24:02 +0100</pubDate>
+      <pubDate>Thu, 11 Apr 2013 23:24:02 +0100</pubDate>
       
       <guid>https://pawelsawicz.github.io/blog/codeguru-and-net-community/</guid>
       <description>For few days I&amp;rsquo;m official member of codeguru redaction. I hope the cooperation will be delightful. I would like to make some changes, if headmaster will agree with me, as many of you know, present codeguru died, and I think all of us can help to rebirth like a phoenix.
 I think the .NET Poland community is still small if we compare to other countries . Thanks for procent blogpost I can seen how he has got power of influence to people after his blogpost I got 10 more followers at twitter and I think there was more &amp;ldquo;coming out&amp;rdquo; due to his blogpost.</description>
+    </item>
+    
+    <item>
+      <title>#asciihack Wroclaw</title>
+      <link>https://pawelsawicz.github.io/blog/asciihack-wroclaw/</link>
+      <pubDate>Sun, 24 Mar 2013 23:24:02 +0100</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/blog/asciihack-wroclaw/</guid>
+      <description>This event will stay in my mind for a long time, I met there fantastic people, projects but what was the important it was a lot of FUN!.
+unfortunately I was late for event like 15 minutes, but when I came at the front of me @nedzynski ask me what I want to eat and give me card to write my name and stick it into my shirt. It&amp;rsquo;s nice idea when you are talking with somebody you just see his/her name, I have weak remember to names so for me it was great and I don&amp;rsquo;t have to worry about this.</description>
     </item>
     
     <item>
