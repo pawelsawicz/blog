@@ -1,4 +1,4 @@
-box: debian
+box: wercker/default
 build:
   steps:
     - arjen/hugo-build:
@@ -10,6 +10,5 @@ deploy:
     - install-packages:
       packages: git ssh-client
     - lukevivier/gh-pages@0.2.1:
-      token: $GIT_TOKEN
-      domain: pawelsawicz.github.io/blog
+      token: $GIT_TOKEN     
       basedir: docs
