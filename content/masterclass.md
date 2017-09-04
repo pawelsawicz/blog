@@ -1,5 +1,5 @@
 +++
-title = "Masterclasses"
+title = "Master class"
 description = "Set of aviable 1-3 days long masterclasses that empower your team to do better things"
 +++
 

@@ -1,6 +1,6 @@
 +++
 description = "Modern approach to software craftmanship. Where quality meets requirements"
-title = "Pawel Sawicz on Software"
+title = "Sawicz.io"
 draft = false
 
 +++

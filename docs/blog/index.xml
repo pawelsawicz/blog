@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Pawel Sawicz on Software</title>
-    <link>https://pawelsawicz.github.io/blog/</link>
-    <description>Recent content in Blogs on Pawel Sawicz on Software</description>
+    <title>Blogs on Pawel Sawicz</title>
+    <link>http://sawicz.io/blog/</link>
+    <description>Recent content in Blogs on Pawel Sawicz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Mar 2017 23:24:02 +0100</lastBuildDate>
     
-	<atom:link href="https://pawelsawicz.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://sawicz.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Squadron - Next week of work</title>
-      <link>https://pawelsawicz.github.io/blog/squadron-next-week-of-work/</link>
+      <link>http://sawicz.io/blog/squadron-next-week-of-work/</link>
       <pubDate>Thu, 30 Mar 2017 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/squadron-next-week-of-work/</guid>
+      <guid>http://sawicz.io/blog/squadron-next-week-of-work/</guid>
       <description>Operational_planning_for_the_2011_DRC_elections Plan for next week
 This post shares with you with insights from developing of getsquadron.io
 I managed to outline main feature that I want to have. Let&amp;rsquo;s kick off with something easy, those are main tasks to finish by the end of next week.
@@ -25,10 +25,10 @@ Read simple Json configuration file that describe testing scenario Do a N reques
     
     <item>
       <title>Squadron take off - Get Noticed</title>
-      <link>https://pawelsawicz.github.io/blog/squadron-take-off-get-noticed/</link>
+      <link>http://sawicz.io/blog/squadron-take-off-get-noticed/</link>
       <pubDate>Thu, 30 Mar 2017 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/squadron-take-off-get-noticed/</guid>
+      <guid>http://sawicz.io/blog/squadron-take-off-get-noticed/</guid>
       <description>Get Noticed
 This is the time!
 Unfortunately last year I didn&amp;rsquo;t take part in Get Noticed! If you don&amp;rsquo;t know what it is, checks this website, translate to English should do work. In short, &amp;ldquo;Get Noticed&amp;rdquo; is a contest where for three months you have to work on your personal project, that you come up and you write about it on your blog, how amazing idea is that?
@@ -37,10 +37,10 @@ The reason for that is simple Get Noticed!</description>
     
     <item>
       <title>Makefile and .NET Core</title>
-      <link>https://pawelsawicz.github.io/blog/makefile-and-net-core/</link>
+      <link>http://sawicz.io/blog/makefile-and-net-core/</link>
       <pubDate>Wed, 29 Mar 2017 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/makefile-and-net-core/</guid>
+      <guid>http://sawicz.io/blog/makefile-and-net-core/</guid>
       <description>building-blocks-456616_1280 Overview
 In this post you will learn what is build script or build tool, what products are out there and why it&amp;rsquo;s helpful during whole life cycle of you application.
 It it a part of &amp;ldquo;Get Noticed!&amp;rdquo; series, check out how to create your first .NET Core application. If you already know, check out this repository What is build script ?
@@ -49,10 +49,10 @@ Build script tools automate certain task that you have to do repeatedly with you
     
     <item>
       <title>Setting up .NET Core project</title>
-      <link>https://pawelsawicz.github.io/blog/setting-up-net-core-project/</link>
+      <link>http://sawicz.io/blog/setting-up-net-core-project/</link>
       <pubDate>Wed, 15 Mar 2017 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/setting-up-net-core-project/</guid>
+      <guid>http://sawicz.io/blog/setting-up-net-core-project/</guid>
       <description>Overview
 This tutorial will work on most of OS, but I encourage you to get a Ubuntu, to go out of your comfort zone. It&amp;rsquo;s very easy to start with Linux. Working with console is very important to me, so that all work is done via command line.
 Article is part of &amp;ldquo;Get Noticed!&amp;rdquo;, project squadron, so we will try to recreate what I have already done to Squadron.TestApplication repository Install .</description>
@@ -60,10 +60,10 @@ Article is part of &amp;ldquo;Get Noticed!&amp;rdquo;, project squadron, so we w
     
     <item>
       <title>Squadron - First stepss</title>
-      <link>https://pawelsawicz.github.io/blog/squadron-first-steps/</link>
+      <link>http://sawicz.io/blog/squadron-first-steps/</link>
       <pubDate>Tue, 07 Mar 2017 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/squadron-first-steps/</guid>
+      <guid>http://sawicz.io/blog/squadron-first-steps/</guid>
       <description>Yesterday&amp;rsquo;s tasks
 Those were my yesterday&amp;rsquo;s tasks, check out the outcome.
 trello-kick-off Measure people interest and start gathering information about customers
@@ -73,10 +73,10 @@ That means I have to deliver product features quickly and check if my potential 
     
     <item>
       <title>How to programming in GoLang on Windows</title>
-      <link>https://pawelsawicz.github.io/blog/how-to-programming-in-golang-on-windows/</link>
+      <link>http://sawicz.io/blog/how-to-programming-in-golang-on-windows/</link>
       <pubDate>Mon, 01 Aug 2016 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/how-to-programming-in-golang-on-windows/</guid>
+      <guid>http://sawicz.io/blog/how-to-programming-in-golang-on-windows/</guid>
       <description>Recently I started programming in GoLang, for one project that I want to contribute to, terraform. For me, it was natural to get working GoLang on Windows.
 So I downloaded GoLang, and terraform then I tried to compile and it happened&amp;hellip;
 Basically, my execution path got too, which is known issue on Windows.
@@ -85,10 +85,10 @@ That&amp;rsquo;s why it&amp;rsquo;s impossible to having working bigger projects
     
     <item>
       <title>A history of DDoS attack - How my server died</title>
-      <link>https://pawelsawicz.github.io/blog/a-history-of-ddos-attack/</link>
+      <link>http://sawicz.io/blog/a-history-of-ddos-attack/</link>
       <pubDate>Tue, 21 Jun 2016 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/a-history-of-ddos-attack/</guid>
+      <guid>http://sawicz.io/blog/a-history-of-ddos-attack/</guid>
       <description>This blog post is postmortem of my infrastructure that was attacked on Sunday by Argentinian attacker and died because of DDoS. I will share with you all actions that I took in order to bring back stability of services. Summary
 Attack has started : 19 June 2016 at 3:20PM UTC
 Attack has ended : 19 June 2016 at 4:10PM UTC
@@ -98,20 +98,20 @@ Extra cost due to attack : less than 2$ Existing Infrastructure</description>
     
     <item>
       <title>Refactoring legacy GUI application to CLI</title>
-      <link>https://pawelsawicz.github.io/blog/refactoring-legacy-gui-application-to-cli/</link>
+      <link>http://sawicz.io/blog/refactoring-legacy-gui-application-to-cli/</link>
       <pubDate>Mon, 13 Jun 2016 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/refactoring-legacy-gui-application-to-cli/</guid>
+      <guid>http://sawicz.io/blog/refactoring-legacy-gui-application-to-cli/</guid>
       <description>If you ever wonder how it is to work with 15-year-old legacy C++ code, and how to make refactoring, this blog is perfect for you :)
 As ou may remember, I promised you to show you work that I do for Helbreath. When I decided to work on that, the first decision I made was to try to get rid of this horrible GUI, that was aperitif before I do more serious work.</description>
     </item>
     
     <item>
       <title>Helbreath Poland project</title>
-      <link>https://pawelsawicz.github.io/blog/helbreath-poland-project/</link>
+      <link>http://sawicz.io/blog/helbreath-poland-project/</link>
       <pubDate>Mon, 06 Jun 2016 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/helbreath-poland-project/</guid>
+      <guid>http://sawicz.io/blog/helbreath-poland-project/</guid>
       <description>hb_blogpost What is Helbreath ?
 Helbreath is MMO games created back in 1999 by a korean studio - Siementech, seems that they are dead :(
 At the same time there was a group of people who created open source code for this game, both server and client side.
@@ -120,10 +120,10 @@ This is very important, to understand that those sources were developed in 1999 
     
     <item>
       <title>Terraform in game development - Don’t Starve Together</title>
-      <link>https://pawelsawicz.github.io/blog/terraform-in-game-development/</link>
+      <link>http://sawicz.io/blog/terraform-in-game-development/</link>
       <pubDate>Fri, 13 Nov 2015 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/terraform-in-game-development/</guid>
+      <guid>http://sawicz.io/blog/terraform-in-game-development/</guid>
       <description>dont_starve_together_blogpost
 A while ago you could read about Vagrant for Don&amp;rsquo;t Starve Together (aka DST), this time let&amp;rsquo;s discuss about similar tool named Terraform.
 As in vagrant blogpost I am playing Terraform with DST, because it&amp;rsquo;s quite good aspect and problem were you can check out tools like Terraform.
@@ -132,20 +132,20 @@ You may wondering what do you have with those all games ? Games for me were THIS
     
     <item>
       <title>Don&#39;t Starve Together and Vagrant</title>
-      <link>https://pawelsawicz.github.io/blog/dont-starve-together-and-vagrant/</link>
+      <link>http://sawicz.io/blog/dont-starve-together-and-vagrant/</link>
       <pubDate>Fri, 03 Jul 2015 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/dont-starve-together-and-vagrant/</guid>
+      <guid>http://sawicz.io/blog/dont-starve-together-and-vagrant/</guid>
       <description>219740_screenshots_2013-03-13_00004
 I had few approaches into Vagrant but every time I was recreating what somebody have done already which was quite frustrating because I couldn&amp;rsquo;t share what I have done and achieved. This time I came across with one problem that can be solved by using Vagrant and it&amp;rsquo;s a field where it wasn&amp;rsquo;t used before so it was also good time for me to do everything by my own.</description>
     </item>
     
     <item>
       <title>Battlehack 2015 Demo</title>
-      <link>https://pawelsawicz.github.io/blog/battlehack-2015-demo/</link>
+      <link>http://sawicz.io/blog/battlehack-2015-demo/</link>
       <pubDate>Wed, 15 Apr 2015 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/battlehack-2015-demo/</guid>
+      <guid>http://sawicz.io/blog/battlehack-2015-demo/</guid>
       <description>JustGiving API Demo
 Make a donation with reference code Retrieve donations for given reference code Retrieve donation for given ID  Those three calls are complete flow to make a donation and then get aggregated donations for specific reference, and then get details for specific donation. Additionally when you succeed make a donation you will get in response donationId as a URL parameter.
 Check out our chat at JabbR, where you can ask question and discuss about API.</description>
@@ -153,10 +153,10 @@ Check out our chat at JabbR, where you can ask question and discuss about API.</
     
     <item>
       <title>What about formal education?</title>
-      <link>https://pawelsawicz.github.io/blog/what-about-formal-education/</link>
+      <link>http://sawicz.io/blog/what-about-formal-education/</link>
       <pubDate>Fri, 06 Mar 2015 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/what-about-formal-education/</guid>
+      <guid>http://sawicz.io/blog/what-about-formal-education/</guid>
       <description>Recently I got BSc degree at Wroclaw University of Technology (aka PWr) in field of Electronic and Telecommunication, today in my blogpost I would like to talk about formal education, how I precept it, and what it gives us. We will try to answer to following question, is formal education required to be a programmer?
 Legacy
 Before I went to Uni. I had some experience in field of programming, mostly basic knowledge about c++, c#, php, even my first real job was programming, during summer break at high school.</description>
@@ -164,10 +164,10 @@ Before I went to Uni. I had some experience in field of programming, mostly basi
     
     <item>
       <title>Stochastic Approximation - Beginning</title>
-      <link>https://pawelsawicz.github.io/blog/stochastic-approximation-beginning/</link>
+      <link>http://sawicz.io/blog/stochastic-approximation-beginning/</link>
       <pubDate>Thu, 30 Oct 2014 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/stochastic-approximation-beginning/</guid>
+      <guid>http://sawicz.io/blog/stochastic-approximation-beginning/</guid>
       <description>example-of-function
 Hi everyone, this time I would like to present you something more ambitious than previous blog posts.
 Since it is my last semester at Wroclaw University of Technology, the time of BSc project has come. I will write down a mini-series about my preparation, sometimes it can be more technical or just theory. This write is a introduction what is about my project. Ideas
@@ -176,10 +176,10 @@ In the middle of may 2014 I have realized that it&amp;rsquo;s time to choose a s
     
     <item>
       <title>#dotnetconfPL - 2014</title>
-      <link>https://pawelsawicz.github.io/blog/dotnetconfpl2014/</link>
+      <link>http://sawicz.io/blog/dotnetconfpl2014/</link>
       <pubDate>Tue, 30 Sep 2014 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/dotnetconfpl2014/</guid>
+      <guid>http://sawicz.io/blog/dotnetconfpl2014/</guid>
       <description>dotnetconf logo
 Hey!
 Hey all I would like to invite you to second edition of dotnetconfPL. If you hear about it first time then check out last edition. As you may guess this conference is in Polish, we were inspired by global edition, so we decided to do it in Polish.
@@ -188,10 +188,10 @@ At this year we have few more licences to raffle during our event, six resharper
     
     <item>
       <title>My journey to being nomad</title>
-      <link>https://pawelsawicz.github.io/blog/my-journey-to-being-nomad/</link>
+      <link>http://sawicz.io/blog/my-journey-to-being-nomad/</link>
       <pubDate>Sun, 29 Jun 2014 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/my-journey-to-being-nomad/</guid>
+      <guid>http://sawicz.io/blog/my-journey-to-being-nomad/</guid>
       <description>PRELUDE :
 nomad :
 a member of a people or tribe who move from place to place to find pasture and food a person who continually moves from place to place; wanderer  nomads
@@ -200,10 +200,10 @@ My thoughts about journey during summer break has begun at the early October whe
     
     <item>
       <title>UnauthorizedAccessException while accessing camera</title>
-      <link>https://pawelsawicz.github.io/blog/unauthorizedaccessexception-while-accessing-camera/</link>
+      <link>http://sawicz.io/blog/unauthorizedaccessexception-while-accessing-camera/</link>
       <pubDate>Thu, 17 Apr 2014 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/unauthorizedaccessexception-while-accessing-camera/</guid>
+      <guid>http://sawicz.io/blog/unauthorizedaccessexception-while-accessing-camera/</guid>
       <description>Recently I got that kind of Exception, UnauthorizedAccessException it occurred when I wanted initialize my webcamera in Windows 8 application.
 access_deny_microphone_w8
 The weirdest thing is that if your application just takes a photo you have to include in requirements that it has to allow a microphone&amp;hellip;yes to microphone. Because CaptureControl.Source is a type of MediaCapture, and this class provide a possibility of taking a photos, recording video and sound, in my opinion this is very weird because if I am making a embedded system it force from me that I have to provide a hardware that has got microphone.</description>
@@ -211,39 +211,39 @@ The weirdest thing is that if your application just takes a photo you have to in
     
     <item>
       <title>git diff pawelsawicz-cv</title>
-      <link>https://pawelsawicz.github.io/blog/git-diff-pawelsawicz-cv/</link>
+      <link>http://sawicz.io/blog/git-diff-pawelsawicz-cv/</link>
       <pubDate>Sat, 15 Mar 2014 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/git-diff-pawelsawicz-cv/</guid>
+      <guid>http://sawicz.io/blog/git-diff-pawelsawicz-cv/</guid>
       <description>I am back! with brand new blog post! Too much time I have been waiting for releasing my new CV but now after few reviews done by mine friends I am ready to write about it, maybe it will help you :)
 As you remember at the beginning of march 2013 I was looking for a job as .NET Developer, that was very enlightening time and had showed my weakness and fields to improve myself, CV was one of that thing.</description>
     </item>
     
     <item>
       <title>My 2013 and goals for 2014</title>
-      <link>https://pawelsawicz.github.io/blog/my-2013-and-goals-for-2014/</link>
+      <link>http://sawicz.io/blog/my-2013-and-goals-for-2014/</link>
       <pubDate>Sat, 11 Jan 2014 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/my-2013-and-goals-for-2014/</guid>
+      <guid>http://sawicz.io/blog/my-2013-and-goals-for-2014/</guid>
       <description>2013 for my was year full of changes and new things.
 it was my first time when I was at DevDay, unfortunately due to lack of time I didn&#39;t wrote blogpost. However at this conference I had opportunity to met *almost* everyone from twitter and polish .NET blogosphere. It was fantastic two days in Krakow thanks @rafek and @mihcall for invitation, and see ya at 2014 :) Next event where I have been - was BuildStuff (this blog post is still in progress), but nevertheless I would like to thank to Nereinga and Greg for a fantastic event that was buildstuff, and for all people I had pleasure to met!</description>
     </item>
     
     <item>
       <title>401 (Unauthorized) while reset password in Ghost</title>
-      <link>https://pawelsawicz.github.io/blog/401-unauthorized-while-reset-password-in-ghost/</link>
+      <link>http://sawicz.io/blog/401-unauthorized-while-reset-password-in-ghost/</link>
       <pubDate>Sun, 22 Dec 2013 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/401-unauthorized-while-reset-password-in-ghost/</guid>
+      <guid>http://sawicz.io/blog/401-unauthorized-while-reset-password-in-ghost/</guid>
       <description>Today evening I decided to configure with my new blog engine (Ghost), but unfortunately I forgot my password to admin (yea very clever&amp;hellip;.dumb ass!). I just thought easy as pie! it&amp;rsquo;s just few minutes smtp configure, after 2 hours I realized that I was changing development configure not a production config, so my smtp config wasn&amp;rsquo;t affect to production environment. Lesson for me : make sure you are working in right place!</description>
     </item>
     
     <item>
       <title>Windows Phone 8 #buildstuff</title>
-      <link>https://pawelsawicz.github.io/blog/windows-phone-8-buildstuff/</link>
+      <link>http://sawicz.io/blog/windows-phone-8-buildstuff/</link>
       <pubDate>Thu, 14 Nov 2013 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/windows-phone-8-buildstuff/</guid>
+      <guid>http://sawicz.io/blog/windows-phone-8-buildstuff/</guid>
       <description>Few hours ago my second application for Windows Phone just released, this time I made application for Build Stuff conference. Just check this out and please let me know about any issue or things to improve, via mail pawel@sawicz.eu or in comment below.
 Of course it&amp;rsquo;s first release, and application will be updated if any new speaker or session come out.
 2 3 4 7
@@ -253,10 +253,10 @@ See ya on Build Stuff!</description>
     
     <item>
       <title>oredev videos are live!</title>
-      <link>https://pawelsawicz.github.io/blog/oredev-videos-are-live/</link>
+      <link>http://sawicz.io/blog/oredev-videos-are-live/</link>
       <pubDate>Mon, 11 Nov 2013 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/oredev-videos-are-live/</guid>
+      <guid>http://sawicz.io/blog/oredev-videos-are-live/</guid>
       <description>Just few minutes ago oredev share their videos from conference
 Link : http://oredev.org/2013/videos
 I truly recommend these videos for every dev.</description>
@@ -264,10 +264,10 @@ I truly recommend these videos for every dev.</description>
     
     <item>
       <title>dotnetconf PL 2013 #dotnetconfpl</title>
-      <link>https://pawelsawicz.github.io/blog/dotnetconf-pl-2013/</link>
+      <link>http://sawicz.io/blog/dotnetconf-pl-2013/</link>
       <pubDate>Mon, 07 Oct 2013 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/dotnetconf-pl-2013/</guid>
+      <guid>http://sawicz.io/blog/dotnetconf-pl-2013/</guid>
       <description>dotnetconf logo
 Six day till first virtual polish .NET conference will be handle. Thanks all : @mfranc, @JakubJedryszek, @maniserowicz, @maciejgrabek, @tjanczuk, @gutek, @filip_woj
 Good luck guys and see you on Saturday! :)</description>
@@ -275,10 +275,10 @@ Good luck guys and see you on Saturday! :)</description>
     
     <item>
       <title>DevDay Windows Phone Application #abbdevday</title>
-      <link>https://pawelsawicz.github.io/blog/devday-windows-phone-application/</link>
+      <link>http://sawicz.io/blog/devday-windows-phone-application/</link>
       <pubDate>Tue, 17 Sep 2013 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/devday-windows-phone-application/</guid>
+      <guid>http://sawicz.io/blog/devday-windows-phone-application/</guid>
       <description>Finally! Today my application for Dev Day 2013 gone through windows store. You can download this application here Application,or in phone by searching (devday, abb, conference)
 Few example of screen-shots
 4 3 2 1</description>
@@ -286,10 +286,10 @@ Few example of screen-shots
     
     <item>
       <title>Grid in Windows Phone 8 #windowsphone</title>
-      <link>https://pawelsawicz.github.io/blog/grid-in-windows-phone-8/</link>
+      <link>http://sawicz.io/blog/grid-in-windows-phone-8/</link>
       <pubDate>Mon, 26 Aug 2013 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/grid-in-windows-phone-8/</guid>
+      <guid>http://sawicz.io/blog/grid-in-windows-phone-8/</guid>
       <description>When we are creating Windows Phone application first thing that we will be using is GridWindows Phone Grid
 Grid, it&amp;rsquo;s our base for creating our world in devices. In this post I want to approach closer this topic. First thought is, how to use it ? and why it&amp;rsquo;s so powerful ?
 Let&amp;rsquo;s me answer. It&amp;rsquo;s quite powerful mechanism because  can be our box for others items like (list box, text block etc.</description>
@@ -297,29 +297,29 @@ Let&amp;rsquo;s me answer. It&amp;rsquo;s quite powerful mechanism because  can 
     
     <item>
       <title>MongoDB and Web API, power of NoSQL philosophy</title>
-      <link>https://pawelsawicz.github.io/blog/mongodb-and-web-api-power-of-nosql-philosophy/</link>
+      <link>http://sawicz.io/blog/mongodb-and-web-api-power-of-nosql-philosophy/</link>
       <pubDate>Sun, 07 Jul 2013 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/mongodb-and-web-api-power-of-nosql-philosophy/</guid>
+      <guid>http://sawicz.io/blog/mongodb-and-web-api-power-of-nosql-philosophy/</guid>
       <description>Few days ago I had to create very simple database, and there was a need to expose API, so first thought was no RDBM! (because there wasn&amp;rsquo;t any relation). @mfranc has showed me this powerful diagram, where you can easily decide which database engine will be the best for your solution. In my case I had choose MongoDB, it&amp;rsquo;s document-oriented database, tree of MongoDB is quite similar to RDBM, engine-&amp;gt;database-&amp;gt;collections-&amp;gt;documents (so each document represent record of our data).</description>
     </item>
     
     <item>
       <title>Interviews - How to be not rejected ?</title>
-      <link>https://pawelsawicz.github.io/blog/startup-weekend-wroclaw-final-presentation/</link>
+      <link>http://sawicz.io/blog/startup-weekend-wroclaw-final-presentation/</link>
       <pubDate>Sun, 26 May 2013 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/startup-weekend-wroclaw-final-presentation/</guid>
+      <guid>http://sawicz.io/blog/startup-weekend-wroclaw-final-presentation/</guid>
       <description>Today are final presentations in Startup Weekend Wroclaw. It&amp;rsquo;s a great idea to watch this stream if you want run your own startup.
 Stream : http://swwro.janmedia.pl/ Video : http://vimeo.com/search?q=startup+weekend+wroclaw</description>
     </item>
     
     <item>
       <title>Interviews - How to be not rejected ?</title>
-      <link>https://pawelsawicz.github.io/blog/interviewshow-to-be-not-rejected/</link>
+      <link>http://sawicz.io/blog/interviewshow-to-be-not-rejected/</link>
       <pubDate>Sun, 19 May 2013 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/interviewshow-to-be-not-rejected/</guid>
+      <guid>http://sawicz.io/blog/interviewshow-to-be-not-rejected/</guid>
       <description>This post is about my experience with job interviews. Two months ago I have started looking for a job. As you know there is plenty of job offers for .NET Developer, but in the beginning I decided to reject working in big corporation, and focus at small / medium companies. I have participated in six interviews till this moment (15 May 2013).
 Ardua prima via est!
 My first interview was quite good and it was leaded by owner.</description>
@@ -327,10 +327,10 @@ My first interview was quite good and it was leaded by owner.</description>
     
     <item>
       <title>Deploy from external repo</title>
-      <link>https://pawelsawicz.github.io/blog/deploy-from-external-repo/</link>
+      <link>http://sawicz.io/blog/deploy-from-external-repo/</link>
       <pubDate>Thu, 02 May 2013 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/deploy-from-external-repo/</guid>
+      <guid>http://sawicz.io/blog/deploy-from-external-repo/</guid>
       <description>tl;tr; Deploy from external repo on MS Azure
 Few days ago I was on a Global Windows Azure Bootcamp,We had few sessions, one of those session was lectured by @mpraglowski, he showed us this wonderful feature. What if we want to deploy our website on each git push without any extra action on our server ? With help come Azure Web Sites.
 First, create new web site by choosing New -&amp;gt; Compute -&amp;gt; Web site-&amp;gt; Custom createcreatewebsite_0</description>
@@ -338,20 +338,20 @@ First, create new web site by choosing New -&amp;gt; Compute -&amp;gt; Web site-
     
     <item>
       <title>Windows Azure Developer Challenge</title>
-      <link>https://pawelsawicz.github.io/blog/windows-azure-developer-challenge/</link>
+      <link>http://sawicz.io/blog/windows-azure-developer-challenge/</link>
       <pubDate>Mon, 29 Apr 2013 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/windows-azure-developer-challenge/</guid>
+      <guid>http://sawicz.io/blog/windows-azure-developer-challenge/</guid>
       <description>Quick info! There is a event which is already running, but there is still chance to get a prize, event is named &amp;ldquo;Windows Azure Developer Challenge&amp;rdquo; we pass through five steps. On each step we have chance to get 64GB Surfece (for US citizen) or cash equivalent for (2,1k $, outside US). Organiser of this event is codeproject, over 16.000$ is to give away so go register ourselves!
 @Edit: First stage was extended for a week!</description>
     </item>
     
     <item>
       <title>Async and RESTSharp</title>
-      <link>https://pawelsawicz.github.io/blog/async-and-restsharp/</link>
+      <link>http://sawicz.io/blog/async-and-restsharp/</link>
       <pubDate>Thu, 25 Apr 2013 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/async-and-restsharp/</guid>
+      <guid>http://sawicz.io/blog/async-and-restsharp/</guid>
       <description>tl;tr; Examples of using Async method of RESTSharp, and comments
 As I mentioned last time I was forced to use async architecture because Windows Phone require it. I was newbie in async programming but when I met RESTSharp, it clear everything, I will show you some code block with my comment for it. Basics, and how to connect to Web API check this blogpost
 If we want execute GET.
@@ -360,79 +360,79 @@ var request = new RestRequest(&amp;ldquo;api/location&amp;rdquo;, Method.</descr
     
     <item>
       <title>Google Code Jam 2013</title>
-      <link>https://pawelsawicz.github.io/blog/google-code-jam-2013/</link>
+      <link>http://sawicz.io/blog/google-code-jam-2013/</link>
       <pubDate>Sat, 13 Apr 2013 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/google-code-jam-2013/</guid>
+      <guid>http://sawicz.io/blog/google-code-jam-2013/</guid>
       <description>Thanks @JakubJedryszek, he showed me Google Code Jam 2013 I hereby invite, because It seems to be a quite good fun. There is still time to register till 14 April, first set of tasks were published, so hurry up and good luck everyone!
 P.S There is plenty of supported languages! Including C#</description>
     </item>
     
     <item>
       <title>Codeguru and .NET community</title>
-      <link>https://pawelsawicz.github.io/blog/codeguru-and-net-community/</link>
+      <link>http://sawicz.io/blog/codeguru-and-net-community/</link>
       <pubDate>Thu, 11 Apr 2013 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/codeguru-and-net-community/</guid>
+      <guid>http://sawicz.io/blog/codeguru-and-net-community/</guid>
       <description>For few days I&amp;rsquo;m official member of codeguru redaction. I hope the cooperation will be delightful. I would like to make some changes, if headmaster will agree with me, as many of you know, present codeguru died, and I think all of us can help to rebirth like a phoenix.
 I think the .NET Poland community is still small if we compare to other countries . Thanks for procent blogpost I can seen how he has got power of influence to people after his blogpost I got 10 more followers at twitter and I think there was more &amp;ldquo;coming out&amp;rdquo; due to his blogpost.</description>
     </item>
     
     <item>
       <title>#asciihack Wroclaw</title>
-      <link>https://pawelsawicz.github.io/blog/asciihack-wroclaw/</link>
+      <link>http://sawicz.io/blog/asciihack-wroclaw/</link>
       <pubDate>Sun, 24 Mar 2013 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/asciihack-wroclaw/</guid>
+      <guid>http://sawicz.io/blog/asciihack-wroclaw/</guid>
       <description>This event will stay in my mind for a long time, I met there fantastic people, projects but what was the important it was a lot of FUN!.
 unfortunately I was late for event like 15 minutes, but when I came at the front of me @nedzynski ask me what I want to eat and give me card to write my name and stick it into my shirt. It&amp;rsquo;s nice idea when you are talking with somebody you just see his/her name, I have weak remember to names so for me it was great and I don&amp;rsquo;t have to worry about this.</description>
     </item>
     
     <item>
       <title>Introduction to RESTSharp</title>
-      <link>https://pawelsawicz.github.io/blog/introduction-to-restsharp/</link>
+      <link>http://sawicz.io/blog/introduction-to-restsharp/</link>
       <pubDate>Mon, 18 Mar 2013 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/introduction-to-restsharp/</guid>
+      <guid>http://sawicz.io/blog/introduction-to-restsharp/</guid>
       <description>I would like to show you, good library to working with REST architecture. Nowadays REST is getting more popular because it&amp;rsquo;s very simple API, even ASP.NET MVC support this as default API service.
 RESTSharp, is powerful library for any kind of .NET technology. Especially for Windows Phone where you have to use REST or SOAP to communicate with your external data. I came across RESTSharp when I was working on Project for Imagine Cup 2013.</description>
     </item>
     
     <item>
       <title>Office 365 - the beginning</title>
-      <link>https://pawelsawicz.github.io/blog/office-365the-beginning/</link>
+      <link>http://sawicz.io/blog/office-365the-beginning/</link>
       <pubDate>Mon, 11 Mar 2013 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/office-365the-beginning/</guid>
+      <guid>http://sawicz.io/blog/office-365the-beginning/</guid>
       <description>Few days ago I won a year subscription for an Office 365, and I would like to review for you.
 All previously products don’t have any major changes between themselves (mainly it was only design changes), in this version of product (Office 365 or Office 2013), programs get synchronise with SkyDrive I think it’s best major update at all, as for me it&amp;rsquo;s very helpful tool because I really hate pen drives, so when I&amp;rsquo;m at university and I&amp;rsquo;m working on a report at some kind of laboratory and then I come back to home, I can turn on my PC and every document, every change is uploaded to my SkyDrive and it&amp;rsquo;s visible at my menu in Word, Excel etc.</description>
     </item>
     
     <item>
       <title>Make your own GTD!</title>
-      <link>https://pawelsawicz.github.io/blog/make-your-own-gtd/</link>
+      <link>http://sawicz.io/blog/make-your-own-gtd/</link>
       <pubDate>Fri, 22 Feb 2013 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/make-your-own-gtd/</guid>
+      <guid>http://sawicz.io/blog/make-your-own-gtd/</guid>
       <description>GTD - Getting Things Done. Let me make mod for it ;). CGTD - (clear getting things done) When I was starting with GTD, and managing my time methods. I have read full of articles about it. After using these all principals, in a few weeks I came across a problem. Wasting too much time to planning everything, and small amount of tasks was done. (too massive applications, and too many options) - lot of doing, done nothing.</description>
     </item>
     
     <item>
       <title>Entity Framework - reset migrations</title>
-      <link>https://pawelsawicz.github.io/blog/entity-frameworkreset-migrations/</link>
+      <link>http://sawicz.io/blog/entity-frameworkreset-migrations/</link>
       <pubDate>Fri, 08 Feb 2013 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/entity-frameworkreset-migrations/</guid>
+      <guid>http://sawicz.io/blog/entity-frameworkreset-migrations/</guid>
       <description>tl;tr; How to reset migrations in Entity framework, and start with raw database
 While I was working at the project for Imagine Cup. I came across to one major problem. What if I want to delete all migrations and start over with raw migration (but at same database). In my case it was due to one of my update-database, it doesn&amp;rsquo;t run correctly, some sort of error I couldn&amp;rsquo;t figure out, how to fix.</description>
     </item>
     
     <item>
       <title>Imagine Cup 2013 - Backstage </title>
-      <link>https://pawelsawicz.github.io/blog/imagine-cup-2013backstage/</link>
+      <link>http://sawicz.io/blog/imagine-cup-2013backstage/</link>
       <pubDate>Tue, 29 Jan 2013 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/imagine-cup-2013backstage/</guid>
+      <guid>http://sawicz.io/blog/imagine-cup-2013backstage/</guid>
       <description>As many teams starting in imagine cup, there will be also huge numbers of newbe at programming, and I would like to give informations that will be helpful to them.
 First, you have to manage your team and tasks, I use trello because it have pith of GTD. Just do it don&amp;rsquo;t use complicated system, it is not needed.
 Second, you have to keep somewhere files of your projects (not only sources) and with help comes bitbucket, there is also github but unfortunately private repo is paid.</description>
@@ -440,10 +440,10 @@ Second, you have to keep somewhere files of your projects (not only sources) and
     
     <item>
       <title>Entity Framework - missing feature</title>
-      <link>https://pawelsawicz.github.io/blog/entity-frameworkmissing-feature/</link>
+      <link>http://sawicz.io/blog/entity-frameworkmissing-feature/</link>
       <pubDate>Thu, 24 Jan 2013 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/entity-frameworkmissing-feature/</guid>
+      <guid>http://sawicz.io/blog/entity-frameworkmissing-feature/</guid>
       <description>When I was working on this test I saw big disadvantage, there is no method created to delete collection of items at our database, on the other hand other ORMs have this feature. I think it&amp;rsquo;s good idea to have this feature, so I created topic with my idea. If you need this feature, please vote.
 Now :
 foreach (var item in collection) { db.Customers.Remove(item); } db.SaveChanges();
@@ -453,10 +453,10 @@ db.Customers.Remove(collection); db.</description>
     
     <item>
       <title>IIS mod_rewrite – Wordpress fix</title>
-      <link>https://pawelsawicz.github.io/blog/iis-mod-rewritewordpress-fix/</link>
+      <link>http://sawicz.io/blog/iis-mod-rewritewordpress-fix/</link>
       <pubDate>Wed, 16 Jan 2013 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/iis-mod-rewritewordpress-fix/</guid>
+      <guid>http://sawicz.io/blog/iis-mod-rewritewordpress-fix/</guid>
       <description>tl;dr : How to fix IIS with lack of mod_rewriter. Used to Friendly URLs
 My blog is powered by Oktawave. I decided to keep here my personal projects and blog, when I installed my blog, I wanted to configure friendly url, for SEO purpose, but unfortunately was a problem. Basic IIS wasn’t configured.
 First of all you have to download ISAPI_Rewrite 3 make sure that it’s lite version next step is is add ISAPI to IIS filter site, navigate your IIS Manager to ISAPI Filters</description>
@@ -464,20 +464,20 @@ First of all you have to download ISAPI_Rewrite 3 make sure that it’s lite ver
     
     <item>
       <title>ORM Series : Entity Framework Migration</title>
-      <link>https://pawelsawicz.github.io/blog/orm-series-entity-framework-migration/</link>
+      <link>http://sawicz.io/blog/orm-series-entity-framework-migration/</link>
       <pubDate>Thu, 10 Jan 2013 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/orm-series-entity-framework-migration/</guid>
+      <guid>http://sawicz.io/blog/orm-series-entity-framework-migration/</guid>
       <description>Entity Framework, has given with last update, migrations at code first, undoubtedly it&amp;rsquo;s the best feature in this update. This tool is very helpful if we change something at our model, and then we can simply upgrade our database. Moreover it can fulfill role as a database versioning, because we can easily to manage our updates and freely manage between them.
 Whole system is based on Package Manager Console. Basic commands</description>
     </item>
     
     <item>
       <title>Windows Live Writer</title>
-      <link>https://pawelsawicz.github.io/blog/windows-live-writer/</link>
+      <link>http://sawicz.io/blog/windows-live-writer/</link>
       <pubDate>Sat, 29 Dec 2012 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/windows-live-writer/</guid>
+      <guid>http://sawicz.io/blog/windows-live-writer/</guid>
       <description>When I was surfing on the net I came across to this tool, named “Windows Live Writer” . You can link it with wordpress and just use this as a editor for your posts. It seems to be quite good, tool also have large gallery of plug-ins .
 Few test to shows what we can do by this.
 windowslivewriter
@@ -486,19 +486,19 @@ You can easily copy &amp;amp; paste from Visual Studio to editor without worry a
     
     <item>
       <title>ORM Series : Performance Part I : NHibernate, EF, OpenAccess, XPO Devexpress</title>
-      <link>https://pawelsawicz.github.io/blog/orm-series-performance-part-i/</link>
+      <link>http://sawicz.io/blog/orm-series-performance-part-i/</link>
       <pubDate>Wed, 26 Dec 2012 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/orm-series-performance-part-i/</guid>
+      <guid>http://sawicz.io/blog/orm-series-performance-part-i/</guid>
       <description>In one of my companies on of the first tasks was to create appllication, that will show which ORM will be the best choice for my team ( in terms of performance, support and features). Main focus of this task was performance. My company has a online shop that is generating a huge ammout of queries. This was an important task, because we planned to redesign whole project with ORM in order to improve efficiency and get rid off all the complex stored procedures with business logic.</description>
     </item>
     
     <item>
       <title>First post, what next ?</title>
-      <link>https://pawelsawicz.github.io/blog/first-post-what-next/</link>
+      <link>http://sawicz.io/blog/first-post-what-next/</link>
       <pubDate>Sun, 23 Dec 2012 23:24:02 +0100</pubDate>
       
-      <guid>https://pawelsawicz.github.io/blog/first-post-what-next/</guid>
+      <guid>http://sawicz.io/blog/first-post-what-next/</guid>
       <description>I give you more information about my plan for next few blog post. First of all I&amp;rsquo;m going to engage in most popular ORMs, and pull them to pieces. I will be checking their performance, then I take care of their pluses and minuses like missing features or having unique mechanism. I think I can devote 2-3 blog post about ORMs.
 Secondly, I want to write something about, it is XNA and Windows Phone 7.</description>
     </item>
