@@ -4,7 +4,7 @@ description = "New blogpost for today"
 draft = false
 title = "Deploy from external repo"
 weight = 20
-popular = true
+popular = 1
 +++
 
     tl;tr; Deploy from external repo on MS Azure

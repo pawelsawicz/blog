@@ -17,14 +17,14 @@
     <h2>Newest posts </h2>
     <div class="row gutters">
       {{ $paginator_first := .Paginate (where .Data.Pages "Type" "blog") }}      
-      {{ range (first 2 $paginator_first.Pages)}}
+      {{ range (first 2 $paginator_first.Pages.ByDate)}}
          {{ partial "page-summary-featured" . }}
       {{ end }}    
     </div>
     <h2>Popular posts</h2>
     <div class="row gutters">      
       {{ $paginator_second := .Paginate (where .Data.Pages "Type" "blog") }}      
-      {{ range (first 2 ($paginator_second.Pages.ByParam "popular")).Reverse }}
+      {{ range (first 2 ($paginator_second.Pages.ByParam "popular")) }}
          {{ partial "page-summary-featured" . }}
       {{ end }}    
     </div>
