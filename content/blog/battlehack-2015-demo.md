@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "Battlehack 2015 Demo"
 weight = 20
-
+aliases = [
+    "/battlehack-2015-demo"
+]
 +++
 
  

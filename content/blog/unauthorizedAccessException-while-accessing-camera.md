@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "UnauthorizedAccessException while accessing camera"
 weight = 20
-
+aliases = [
+    "/unauthorizedaccessexception-while-accessing-camera"
+]
 +++
 
 Recently I got that kind of Exception, UnauthorizedAccessException it occurred when I wanted initialize my webcamera in Windows 8 application.

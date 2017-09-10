@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "Entity Framework - reset migrations"
 weight = 20
-
+aliases = [
+    "/entity-framework-reseting-migrations"
+]
 +++
 
     tl;tr; How to reset migrations in Entity framework, and start with raw database

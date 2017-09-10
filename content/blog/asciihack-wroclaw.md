@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "#asciihack Wroclaw"
 weight = 20
-
+aliases = [
+    "/asciihack-wroclaw"
+]
 +++
 
 This event will stay in my mind for a long time, I met there fantastic people, projects but what was the important it was a lot of FUN!.

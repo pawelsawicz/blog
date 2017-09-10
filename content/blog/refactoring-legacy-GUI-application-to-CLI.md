@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "Refactoring legacy GUI application to CLI"
 weight = 20
-
+aliases = [
+    "/refactoring-legacy-gui-application-to-cli"
+]
 +++
 
 If you ever wonder how it is to work with 15-year-old legacy C++ code, and how to make refactoring, this blog is perfect for you :) 

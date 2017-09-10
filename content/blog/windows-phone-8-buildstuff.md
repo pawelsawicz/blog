@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "Windows Phone 8 #buildstuff"
 weight = 20
-
+aliases = [
+    "/windows-phone-8-buildstuff"
+]
 +++
 
 Few hours ago my second application for Windows Phone just released, this time I made application for Build Stuff conference. Just check this out and please let me know about any issue or things to improve, via mail pawel@sawicz.eu or in comment below.

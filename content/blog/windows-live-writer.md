@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "Windows Live Writer"
 weight = 20
-
+aliases = [
+    "/windows-live-writer"
+]
 +++
 
 When I was surfing on the net I came across to this tool, named “Windows Live Writer” . You can link it with wordpress and just use this as a editor for your posts.

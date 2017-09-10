@@ -5,6 +5,9 @@ draft = false
 title = "Deploy from external repo"
 weight = 20
 popular = 1
+aliases = [
+    "/azure-external-deploy"
+]
 +++
 
     tl;tr; Deploy from external repo on MS Azure

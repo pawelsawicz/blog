@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "Async and RESTSharp"
 weight = 20
-popular = 100
+aliases = [
+    "/async-and-restsharp"
+]
 +++
 
     tl;tr; Examples of using Async method of RESTSharp, and comments

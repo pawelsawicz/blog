@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "Office 365 - the beginning"
 weight = 20
-
+aliases = [
+    "/office-365-the-beginning"
+]
 +++
 
 Few days ago I won a year subscription for an Office 365, and I would like to review for you.

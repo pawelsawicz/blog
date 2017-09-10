@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "Grid in Windows Phone 8 #windowsphone"
 weight = 20
-
+aliases = [
+    "/grid-in-windows-phone-8-windowsphone"
+]
 +++
 
 When we are creating Windows Phone application first thing that we will be using is GridWindows Phone Grid

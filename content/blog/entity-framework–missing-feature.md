@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "Entity Framework - missing feature"
 weight = 20
-
+aliases = [
+    "/entity-framework-missing-feature"
+]
 +++
 
 When I was working on this test

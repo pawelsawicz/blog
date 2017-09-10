@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "Codeguru and .NET community"
 weight = 20
-
+aliases = [
+    "/codeguru-net-community"
+]
 +++
 
 For few days I'm official member of codeguru redaction. I hope the cooperation will be delightful. I would like to make some changes, if headmaster will agree with me, as many of you know, present codeguru died, and I think all of us can help to rebirth like a phoenix.

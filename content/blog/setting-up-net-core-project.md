@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "Setting up .NET Core project"
 weight = 20
-
+aliases = [
+    "/setting-up-net-core-project"
+]
 +++
 
 Overview

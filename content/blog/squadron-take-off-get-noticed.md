@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "Squadron take off - Get Noticed"
 weight = 20
-
+aliases = [
+    "/squadron-take-off-get-noticed"
+]
 +++
 
 Get Noticed

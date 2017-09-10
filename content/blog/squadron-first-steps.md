@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "Squadron - First stepss"
 weight = 20
-
+aliases = [
+    "/squadron-first-steps"
+]
 +++
 
 Yesterday's tasks

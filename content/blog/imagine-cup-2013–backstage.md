@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "Imagine Cup 2013 - Backstage "
 weight = 20
-
+aliases = [
+    "/imagine-cup-2013-backstage"
+]
 +++
 
 As many teams starting in imagine cup, there will be also huge numbers of newbe at programming, and I would like to give informations that will be helpful to them.

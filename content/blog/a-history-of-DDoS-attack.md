@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "A history of DDoS attack - How my server died"
 weight = 20
-
+aliases = [
+    "/a-history-of-ddos-attack-how-my-server-died"
+]
 +++
 
 This blog post is postmortem of my infrastructure that was attacked on Sunday by Argentinian attacker and died because of DDoS. I will share with you all actions that I took in order to bring back stability of services.

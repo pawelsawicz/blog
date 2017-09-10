@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "How to programming in GoLang on Windows"
 weight = 20
-
+aliases = [
+    "/how-to-programming-in-golang-on-windows"
+]
 +++
 
 Recently I started programming in GoLang, for one project that I want to contribute to, terraform. For me, it was natural to get working GoLang on Windows.

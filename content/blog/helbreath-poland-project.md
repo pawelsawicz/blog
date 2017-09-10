@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "Helbreath Poland project"
 weight = 20
-
+aliases = [
+    "/helbreath-poland-project"
+]
 +++
 
 hb_blogpost

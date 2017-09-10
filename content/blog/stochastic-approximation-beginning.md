@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "Stochastic Approximation - Beginning"
 weight = 20
-
+aliases = [
+    "/stochastic-approximation-beginning"
+]
 +++
 
 example-of-function

@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "ORM Series : Performance Part I : NHibernate, EF, OpenAccess, XPO Devexpress"
 weight = 20
-
+aliases = [
+    "/orm-series-introduce-and-performance-part-i"
+]
 +++
 
 In one of my companies on of the first tasks was to create appllication, that will show which ORM will be the best choice for my team ( in terms of performance, support and features). Main focus of this task was performance. My company has a online shop that is generating a huge ammout of queries. This was an important task, because we planned to redesign whole project with ORM in order to improve efficiency and get rid off all the complex stored procedures with business logic.

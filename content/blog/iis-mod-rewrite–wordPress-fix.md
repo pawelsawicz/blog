@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "IIS mod_rewrite – Wordpress fix"
 weight = 20
-
+aliases = [
+    "/iis-mod_rewrite-wordpress-fix"
+]
 +++
 
 tl;dr : How to fix IIS with lack of mod_rewriter. Used to Friendly URLs

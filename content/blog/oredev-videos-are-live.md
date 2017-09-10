@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "oredev videos are live!"
 weight = 20
-
+aliases = [
+    "/oredev-videos-are-live"
+]
 +++
 
 Just few minutes ago oredev share their videos from conference

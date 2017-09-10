@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "ORM Series : Entity Framework Migration"
 weight = 20
-
+aliases = [
+    "/orm-series-entity-framework-migration"
+]
 +++
 
 Entity Framework, has given with last update, migrations at code first, undoubtedly it's the best feature in this update. This tool is very helpful if we change something at our model, and then we can simply upgrade our database. Moreover it can fulfill role as a database versioning, because we can easily to manage our updates and freely manage between them.

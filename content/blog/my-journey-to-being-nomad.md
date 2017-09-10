@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "My journey to being nomad"
 weight = 20
-
+aliases = [
+    "/my-journey-to-being-nomad"
+]
 +++
 
 PRELUDE :

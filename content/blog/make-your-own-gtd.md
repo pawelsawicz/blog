@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "Make your own GTD!"
 weight = 20
-
+aliases = [
+    "/make-your-own-gtd"
+]
 +++
 
 GTD - Getting Things Done. Let me make mod for it ;). CGTD - (clear getting things done)

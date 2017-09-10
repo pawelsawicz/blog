@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "Interviews - How to be not rejected ?"
 weight = 20
-
+aliases = [
+    "/how-to-be-not-rejected"
+]
 +++
 
 This post is about my experience with job interviews. Two months ago I have started looking for a job. As you know there is plenty of job offers for .NET Developer, but in the beginning I decided to reject working in big corporation, and focus at small / medium companies. I have participated in six interviews till this moment (15 May 2013).

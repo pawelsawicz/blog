@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "My 2013 and goals for 2014"
 weight = 20
-
+aliases = [
+    "/my-2013-and-goals-for-2014"
+]
 +++
 
 2013 for my was year full of changes and new things.

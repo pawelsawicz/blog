@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "git diff pawelsawicz-cv"
 weight = 20
-
+aliases = [
+    "/git-diff-pawelsawicz-cv"
+]
 +++
 
 I am back! with brand new blog post! Too much time I have been waiting for releasing my new CV but now after few reviews done by mine friends I am ready to write about it, maybe it will help you :)

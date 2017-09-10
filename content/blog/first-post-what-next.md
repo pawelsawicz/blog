@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "First post, what next ?"
 weight = 20
-
+aliases = [
+    "/first-post-what-next"
+]
 +++
 
 I give you more information about my plan for next few blog post. First of all I'm going to engage in most popular ORMs, and pull them to pieces. I will be checking their performance, then I take care of their pluses and minuses like missing features or having unique mechanism. I think I can devote 2-3 blog post about ORMs.

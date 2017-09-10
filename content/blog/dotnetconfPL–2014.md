@@ -5,7 +5,7 @@ draft = false
 title = "#dotnetconfPL - 2014"
 weight = 20
 aliases = [
-    "/dotnetconfpl/"
+    "/dotnetconfpl-2014"
 ]
 +++
 

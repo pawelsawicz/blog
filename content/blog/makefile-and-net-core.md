@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "Makefile and .NET Core"
 weight = 20
-
+aliases = [
+    "/makefile-and-net-core"
+]
 +++
 
 building-blocks-456616_1280

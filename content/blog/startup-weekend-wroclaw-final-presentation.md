@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "Interviews - How to be not rejected ?"
 weight = 20
-
+aliases = [
+    "/startup-weekend-wroclaw-final-presentation"
+]
 +++
 
 Today are final presentations in Startup Weekend Wroclaw. It's a great idea to watch this stream if you want run your own startup.

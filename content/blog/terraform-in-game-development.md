@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "Terraform in game development - Don’t Starve Together"
 weight = 20
-
+aliases = [
+    "/terraform-in-game-development-dont-starve-together"
+]
 +++
 
 dont_starve_together_blogpost

@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "Introduction to RESTSharp"
 weight = 20
-
+aliases = [
+    "/restsharp"
+]
 +++
 
 I would like to show you, good library to working with REST architecture. Nowadays REST is getting more popular because it's very simple API, even ASP.NET MVC support this as default API service.

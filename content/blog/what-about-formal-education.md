@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "What about formal education?"
 weight = 20
-
+aliases = [
+    "/what-about-formal-education"
+]
 +++
 
 Recently I got BSc degree at Wroclaw University of Technology (aka PWr) in field of Electronic and Telecommunication, today in my blogpost I would like to talk about formal education, how I precept it,  and what it gives us. We will try to answer to following question, is formal education required to be a programmer?

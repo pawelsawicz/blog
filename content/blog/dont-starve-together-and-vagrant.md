@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "Don't Starve Together and Vagrant"
 weight = 20
-
+aliases = [
+    "/dont-starve-together-and-vagrant"
+]
 +++
 
 219740_screenshots_2013-03-13_00004

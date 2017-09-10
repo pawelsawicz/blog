@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "MongoDB and Web API, power of NoSQL philosophy"
 weight = 20
-
+aliases = [
+    "/mongodb-and-web-api-power-of-nosql-philosophy"
+]
 +++
 
 Few days ago I had to create very simple database, and there was a need to expose API, so first thought was no RDBM! (because there wasn't any relation). @mfranc has showed me this powerful diagram, where you can easily decide which database engine will be the best for your solution. In my case I had choose MongoDB, it's document-oriented database, tree of MongoDB is quite similar to RDBM, engine->database->collections->documents (so each document represent record of our data).

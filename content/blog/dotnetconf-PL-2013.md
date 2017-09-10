@@ -5,6 +5,9 @@ draft = false
 title = "dotnetconf PL 2013 #dotnetconfpl"
 weight = 20
 popular = 1
+aliases = [
+    "/dotnetconf-pl-2013-dotnetconfpl"
+]
 +++
 
 dotnetconf logo

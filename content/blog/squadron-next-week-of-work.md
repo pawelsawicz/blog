@@ -4,7 +4,9 @@ description = "New blogpost for today"
 draft = false
 title = "Squadron - Next week of work"
 weight = 20
-
+aliases = [
+    "/squadron-next-week-of-work"
+]
 +++
 
 Operational_planning_for_the_2011_DRC_elections
